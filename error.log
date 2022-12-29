@@ -1,0 +1,4 @@
+[2022-12-29T19:50:56.631279+07:00] FebriAnandaLubis\Belajar\PHP\MVC\LevelTest.ERROR: This is error [] []
+[2022-12-29T19:50:56.631564+07:00] FebriAnandaLubis\Belajar\PHP\MVC\LevelTest.CRITICAL: This is critical [] []
+[2022-12-29T19:50:56.631621+07:00] FebriAnandaLubis\Belajar\PHP\MVC\LevelTest.ALERT: This is alert [] []
+[2022-12-29T19:50:56.631669+07:00] FebriAnandaLubis\Belajar\PHP\MVC\LevelTest.EMERGENCY: This is emergency [] []

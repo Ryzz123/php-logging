@@ -1,0 +1,15 @@
+{
+  "message": "Belajar PHP Logging",
+  "context": {
+    "username": "Febri"
+  },
+  "level": 200,
+  "level_name": "INFO",
+  "channel": "FebriAnandaLubis\\Belajar\\PHP\\MVC\\FormatterTest",
+  "datetime": "2022-12-29T20:42:27.618297+07:00",
+  "extra": {
+    "hostname": "DESKTOP-GJNJ23E",
+    "memory_usage": "4 MB",
+    "git": []
+  }
+}
